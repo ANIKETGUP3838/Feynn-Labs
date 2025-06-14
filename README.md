@@ -75,9 +75,7 @@ This repository is a curated portfolio of data science, machine learning, and au
 
 ## 📬 Contact
 
-**Aniket**  
-📧 your-email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aniket-gupta-90b49725a/) or [Email](aniket25287@gmail.com).
 
 ---
 
